@@ -1,0 +1,89 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    padding-bottom: 20px;
+    
+    
+}
+
+.cleats {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    width: 20%;
+    
+}
+
+.team {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+.question {
+    
+     width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+
+body {
+    background-color: darkseagreen;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 75px;
+    margin-top: 20px;
+    
+}
+
+
+h3 {
+    background-color: black;
+    color: floralwhite;
+    font-weight: bold;
+    font-size: 18pt;
+    padding-left: 8px;
+}
+
+a:hover {
+    
+    background-color:aquamarine;
+}
+
+a:link {
+    background-color:dimgrey;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 14pt;
+}
+
+@media screen and (max-width: 600px) {
+    
+    body {
+        background-color:aquamarine;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
